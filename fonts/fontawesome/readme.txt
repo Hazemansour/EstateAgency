@@ -1,0 +1,1 @@
+FontAwesome 6.0.0 Beta Version
